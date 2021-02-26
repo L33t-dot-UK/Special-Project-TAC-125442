@@ -2,6 +2,8 @@
 
 # Special-Project-TAC-125442
 
+YouTube playlist associated with this content - https://www.youtube.com/watch?v=18nTudM1QrQ&list=PLO2D4fDkIZCWPJCkowkoN0HntrgH8Bjf7
+
 ![Alt text](/CONTRACT.png?raw=true "U8G2 Animation Tutorial")
 
 # Installation Instructions
